@@ -1,0 +1,2 @@
+# Weather App
+ This is a weather app built with React that fetches data from two separate APIs, Opencage for geolocation and Openweather for weather conditions. The app combines these APIs to provide users with accurate and up-to-date weather information for a given region. It is designed to be mobile responsive and uses Material UI for the user interface. Additionally, components follow the BEM convention, and certain UI elements are designed using the glassmorphic style with CSS. The app dynamically changes its background according to the current weather conditions.
